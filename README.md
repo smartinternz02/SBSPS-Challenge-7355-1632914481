@@ -56,7 +56,7 @@ the crop Recommender system will suggest which type of crop/fruit to grow and wi
 
 - ### Crop recommendation system
 
--![.](static/images/vid.gif)
+-![.](https://raw.githubusercontent.com/mv1249/CropPredictor/main/static/images/vid.gif)
 
 
 
